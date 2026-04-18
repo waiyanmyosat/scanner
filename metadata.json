@@ -1,0 +1,8 @@
+{
+  "name": "Scanner",
+  "description": "A native Kotlin QR code scanner app for Android, featuring CameraX and ML Kit integration.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
